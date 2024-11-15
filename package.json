@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "create-react-class": "^15.5.2",
-    "froala-editor": "https://github.com/palindrone/react-froala-wysiwyg.git#master"
+    "froala-editor": "https://github.com/palindrone/wysiwyg-editor.git#master"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
