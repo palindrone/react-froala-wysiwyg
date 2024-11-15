@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "create-react-class": "^15.5.2",
-    "froala-editor": "https://github.com/palindrone/wysiwyg-editor.git#master"
+    "froala-editor": "https://github.com/roofr/wysiwyg-editor.git#master"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
@@ -72,11 +72,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/palindrone/react-froala-wysiwyg.git"
+    "url": "git+https://github.com/roofr/react-froala-wysiwyg.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/palindrone/react-froala-wysiwyg/issues"
+    "url": "https://github.com/roofr/react-froala-wysiwyg/issues"
   },
-  "homepage": "https://github.com/palindrone/react-froala-wysiwyg#readme"
+  "homepage": "https://github.com/roofr/react-froala-wysiwyg#readme"
 }
